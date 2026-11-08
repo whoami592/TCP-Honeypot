@@ -35,7 +35,7 @@ This project is for **educational and ethical/defensive use only**. Deploy it on
 
 ```bash
 git clone https://github.com/whoami592/TCP-Honeypot.git
-cd <your-repo>
+cd TCP-Honeypot
 ```
 
 No `pip install` is needed.
