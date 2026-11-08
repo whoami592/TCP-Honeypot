@@ -34,7 +34,7 @@ This project is for **educational and ethical/defensive use only**. Deploy it on
 ## 🚀 Installation
 
 ```bash
-git clone https://github.com/<your-username>/<your-repo>.git
+git clone https://github.com/whoami592/TCP-Honeypot.git
 cd <your-repo>
 ```
 
